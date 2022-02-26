@@ -1,0 +1,8 @@
+Essa página já faz parte de uma de minhas aulas do curso de HTML e CSS, apenas adaptei alguns elementos e características para o intuito pessoal, pois essa barbearia já existiu e eu a administrava.
+
+* Estrutura básica de HTML.
+* Estilização básica de CSS.
+
+
+“Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.”
+(MARTIN LUTHER KING)
